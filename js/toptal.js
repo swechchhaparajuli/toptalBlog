@@ -1,6 +1,4 @@
 
-
-
 var a = document.getElementById("a");
 var b = document.getElementById("b");
 var c = document.getElementById("c");
@@ -16,7 +14,6 @@ d.textContent = "";
 e.textContent = "";
 false.textContent = "";
 mission.textContent = "";
-
 
 
 $("#misStat").hover(function(){
