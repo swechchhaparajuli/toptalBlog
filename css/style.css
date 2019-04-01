@@ -1,0 +1,40 @@
+
+body{
+    background-image: url("../images/background.png");
+    color: white;
+    font-size: 20px;
+    background-size: cover;
+}
+
+.jumbotron{
+    opacity: 0.5;
+    color: rgb(37, 37, 37);
+    text-align: center;
+}
+
+.navbar{
+    height: 300px;
+    box-shadow: 10px black;
+}
+
+.navbar-text{
+    font-size: 80px;
+    font-family: cursive;
+    font-style: italic;
+}
+
+#link{
+    color: rgb(146, 214, 214);
+    font-size: 15px;
+    font-style: italic;
+}
+
+#date{
+    color: teal;
+    font-style: italic;
+}
+
+
+
+
+
